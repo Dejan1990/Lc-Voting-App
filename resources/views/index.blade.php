@@ -13,7 +13,7 @@
                 <option value="Filter One">Filter One</option>
                 <option value="Filter Two">Filter Two</option>
                 <option value="Filter Three">Filter Three</option>
-                <option value="Filter Four">Filter Four</option>
+                <option value="Filter Four">Filter Four</option> 
             </select>
         </div>
         <div class="w-2/3 relative">
