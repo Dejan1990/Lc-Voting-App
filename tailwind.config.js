@@ -29,6 +29,8 @@ module.exports = {
                 22: '5.5rem',
                 44: '11rem',
                 70: '17.5rem',
+                76: '19rem',
+                104: '26rem',
                 175: '43.75rem',
             },
             maxWidth: {
@@ -36,7 +38,7 @@ module.exports = {
             },
             boxShadow: {
                 card: '4px 4px 15px 0 rgba(36, 37, 38, 0.08)',
-                dialog: '3px 4px 15px 0 rgba(36, 37, 38, 0.22)',
+                dialog: '3px 4px 15px 0 rgba(36, 37, 38, 0.22)', 
             },
             fontFamily: {
                 sans: ['Open Sans', ...defaultTheme.fontFamily.sans],
